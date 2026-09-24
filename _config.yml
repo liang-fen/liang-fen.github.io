@@ -9,24 +9,24 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yuanwan Huang | Academic Portfolio"
+title                    : "Yuanwan Huang | Academic Homepage"
 title_separator          : "-"
 name                     : &name "Yuanwan Huang"
-description              : &description "Yuanwan Huang's academic portfolio"
-url                      : https://huangyuanwan.github.io
+description              : &description "Yuanwan Huang, Nanjing University of Science and Technology. Research focus: controlled medical image generation."
+url                      : https://liang-fen.github.io
 baseurl                  : ""
-repository               : "huangyuanwan/huangyuanwan.github.io"
+repository               : "liang-fen/liang-fen.github.io"
 
 # Site Author
 author:
   avatar           : "profile.png"
   name             : "Yuanwan Huang (黄渊万)"
   pronouns         : # example: "she/her"  
-  bio              : "模式识别研究生 @ 南京理工大学"
-  location         : "南京, 中国"
-  employer         : "南京理工大学"
+  bio              : "Graduate student @ NJUST. Controlled medical image generation."
+  location         : "Nanjing, China"
+  employer         : "Nanjing University of Science and Technology"
   uri              : # URL
-  email            : "huangyuanwan@njust.edu.cn"
+  email            : "1902946745@qq.com"
 
   # Academic websites
   academia         : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username
   codepen          : # Username
   dribbble         : # Username
-  github           : "huangyuanwan"
+  github           : "liang-fen"
   kaggle           : # Username  
   stackoverflow    : # User number
 
