@@ -11,6 +11,11 @@ I am **Yuanwan Huang (黄渊万)**, a graduate student at the [Nanjing Universit
 
 My research focuses on **controlled medical image generation**, especially spatially controllable generative models for retinal fundus images (vessel-structure conditioning, multi-scale autoregressive generation).
 
+Education
+======
+* M.S., Nanjing University of Science and Technology (in progress)
+* B.S. in Intelligent Information Technology, Qian Xuesen College, NJUST, 2020 – 2024
+
 Research Interests
 ======
 * Controlled medical image generation

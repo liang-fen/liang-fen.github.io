@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Computer Science and Technology (Pattern Recognition), Nanjing University of Science and Technology, Nanjing, China (in progress)
-* B.S., Nanjing University of Science and Technology (please update years if needed)
+* B.S. in Intelligent Information Technology, Qian Xuesen College, Nanjing University of Science and Technology, 2020 – 2024
 
 Research Experience
 ======
@@ -24,12 +24,6 @@ Skills
 ======
 * Python, PyTorch; Generative models (VAR, Diffusion); Medical image processing
 * Fundus image analysis: vessel segmentation (U-Net), pseudo-label pipelines
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Contact
 ======
